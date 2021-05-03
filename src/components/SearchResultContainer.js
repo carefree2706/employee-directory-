@@ -65,7 +65,7 @@ class SearchResultContainer extends Component {
       <div className="container">
         <div className="row">
           <div className="col-lg-12">
-            <h1>RANDOM CO. Employee Directory</h1>
+            <h1>RANDOM Employee Directory</h1>
           </div>
         </div>
         <div className="row">

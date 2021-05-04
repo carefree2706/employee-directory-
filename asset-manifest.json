@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/carefree2706/employee-directory-/static/js/main.a1d8e880.chunk.js",
-    "main.js.map": "/carefree2706/employee-directory-/static/js/main.a1d8e880.chunk.js.map",
-    "runtime-main.js": "/carefree2706/employee-directory-/static/js/runtime-main.d60adca4.js",
-    "runtime-main.js.map": "/carefree2706/employee-directory-/static/js/runtime-main.d60adca4.js.map",
-    "static/js/2.1ceef4e8.chunk.js": "/carefree2706/employee-directory-/static/js/2.1ceef4e8.chunk.js",
-    "static/js/2.1ceef4e8.chunk.js.map": "/carefree2706/employee-directory-/static/js/2.1ceef4e8.chunk.js.map",
-    "index.html": "/carefree2706/employee-directory-/index.html",
-    "static/js/2.1ceef4e8.chunk.js.LICENSE.txt": "/carefree2706/employee-directory-/static/js/2.1ceef4e8.chunk.js.LICENSE.txt"
+    "main.js": "/employee-directory-/static/js/main.a1d8e880.chunk.js",
+    "main.js.map": "/employee-directory-/static/js/main.a1d8e880.chunk.js.map",
+    "runtime-main.js": "/employee-directory-/static/js/runtime-main.12bd0dfb.js",
+    "runtime-main.js.map": "/employee-directory-/static/js/runtime-main.12bd0dfb.js.map",
+    "static/js/2.1ceef4e8.chunk.js": "/employee-directory-/static/js/2.1ceef4e8.chunk.js",
+    "static/js/2.1ceef4e8.chunk.js.map": "/employee-directory-/static/js/2.1ceef4e8.chunk.js.map",
+    "index.html": "/employee-directory-/index.html",
+    "static/js/2.1ceef4e8.chunk.js.LICENSE.txt": "/employee-directory-/static/js/2.1ceef4e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d60adca4.js",
+    "static/js/runtime-main.12bd0dfb.js",
     "static/js/2.1ceef4e8.chunk.js",
     "static/js/main.a1d8e880.chunk.js"
   ]
